@@ -25,12 +25,3 @@
 [`https://github.com/huiyuanai709/tcl-remote-dotnet`](https://github.com/huiyuanai709/tcl-remote-dotnet)
 
 国行 TCL 电视局域网遥控（.NET Native AOT），自带 Web 遥控与 Home Assistant 加载项。
-
----
-
-### Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/dark:c9d1d9/huiyuanai709">
-  <img alt="Contribution graph for huiyuanai709" src="https://ghchart.xqsit94.in/light:24292f/huiyuanai709">
-</picture>
